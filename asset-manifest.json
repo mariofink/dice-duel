@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/dice-duel/static/js/main.1ffd4d23.chunk.js",
+    "main.js.map": "/dice-duel/static/js/main.1ffd4d23.chunk.js.map",
+    "runtime-main.js": "/dice-duel/static/js/runtime-main.409c0b2b.js",
+    "runtime-main.js.map": "/dice-duel/static/js/runtime-main.409c0b2b.js.map",
+    "static/css/2.27e273b8.chunk.css": "/dice-duel/static/css/2.27e273b8.chunk.css",
+    "static/js/2.246e1b8d.chunk.js": "/dice-duel/static/js/2.246e1b8d.chunk.js",
+    "static/js/2.246e1b8d.chunk.js.map": "/dice-duel/static/js/2.246e1b8d.chunk.js.map",
+    "static/js/3.f7d65e32.chunk.js": "/dice-duel/static/js/3.f7d65e32.chunk.js",
+    "static/js/3.f7d65e32.chunk.js.map": "/dice-duel/static/js/3.f7d65e32.chunk.js.map",
+    "index.html": "/dice-duel/index.html",
+    "static/css/2.27e273b8.chunk.css.map": "/dice-duel/static/css/2.27e273b8.chunk.css.map",
+    "static/js/2.246e1b8d.chunk.js.LICENSE.txt": "/dice-duel/static/js/2.246e1b8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.409c0b2b.js",
+    "static/css/2.27e273b8.chunk.css",
+    "static/js/2.246e1b8d.chunk.js",
+    "static/js/main.1ffd4d23.chunk.js"
+  ]
+}
