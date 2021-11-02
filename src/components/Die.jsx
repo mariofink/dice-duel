@@ -7,7 +7,6 @@ const Die = ({ onRoll }) => {
   const [value, setValue] = useState(DEFAULT_VALUE);
   return (
     <div>
-      <p>{value}</p>
       <Dice
         onRoll={(v) => {
           setValue(v);
@@ -15,6 +14,7 @@ const Die = ({ onRoll }) => {
         }}
         defaultValue={DEFAULT_VALUE}
       />
+      <p className="text-center text-white text-8xl mt-12">{value}</p>
     </div>
   );
 };
