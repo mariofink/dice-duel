@@ -7,14 +7,12 @@ function App() {
   const [scoreP2, setScoreP2] = useState(null);
   return (
     <div className="App">
-      <div style={{ marginBottom: "5rem" }}>
+      <div>
         <Die onRoll={(v) => setScoreP1(v)} />
       </div>
-      <div style={{ marginBottom: "5rem" }}>
+      <div>
         <Die onRoll={(v) => setScoreP2(v)} />
       </div>
-      <div>{scoreP1}</div>
-      <div>{scoreP2}</div>
     </div>
   );
 }
